@@ -1,3 +1,3 @@
 # practise-mvn-nexxus-sonar-v2
 
-sample comment
+sample comment with group 6
